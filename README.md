@@ -1,8 +1,11 @@
-Uma réplica de 2048 sendo feita na Unity para estudos.
+# Uma réplica de 2048 feita em Unity
+
 Melhorias serão feitas com o passar do tempo.
 Já possui tela de vitória, fim de jogo, cores nas pecinhas e botão de reset.
 
-------- TO DO -------
+## Próximas atualizações
 Animações de movimento, adicionar mais gráficos, sons, contador de tempo e placas de líderes.
 
-Se um dia eu publicar esse jogo ele será totalmente gratuito e não terá nenhum tipo de monetização.
+## Considerações 
+
+Se um dia esse jogo for publicado, ele será totalmente gratuito e não terá nenhum tipo de monetização.
