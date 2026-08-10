@@ -1,5 +1,7 @@
 # Uma réplica de 2048 feita em Unity
 
+<img src="2048_PRINT.png" alt="Descrição" width="400">
+
 Melhorias serão feitas com o passar do tempo.
 Já possui tela de vitória, fim de jogo, cores nas pecinhas e botão de reset.
 
