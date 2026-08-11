@@ -195,6 +195,8 @@ public class Board : MonoBehaviour
                         int value = Random.value < 0.9f ? 2 : 4;
 
                         tiles[x, y].SetValue(value);
+                        tiles[x, y].SpawnAnimation();
+
                         return;
                     }
 
@@ -321,6 +323,13 @@ public class Board : MonoBehaviour
     {
         winPanel.SetActive(true);
         restartBtn.SetActive(false);
+    }
+
+    public void RestartGame()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene(
+            UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex
+        );
     }
 
 
