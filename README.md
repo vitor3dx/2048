@@ -1,0 +1,13 @@
+# Uma réplica de 2048 feita em Unity
+
+<img src="2048_PRINT.png" alt="Descrição" width="400">
+
+Melhorias serão feitas com o passar do tempo.
+Já possui tela de vitória, fim de jogo, cores nas pecinhas e botão de reset.
+
+## Próximas atualizações
+Animações de movimento, adicionar mais gráficos, sons, contador de tempo e placas de líderes.
+
+## Considerações 
+
+Se um dia esse jogo for publicado, ele será totalmente gratuito e não terá nenhum tipo de monetização.
